@@ -1,0 +1,8 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "page.html"
+   },
+   "name": "Launchpad Tab",
+   "version": "1.0",
+   "manifest_version": 2
+}
